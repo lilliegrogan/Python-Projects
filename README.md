@@ -1,2 +1,2 @@
 # Python-Projects
-# A series of small python projects I made to practice Python3.
+A series of small python projects I made to practice Python3.
